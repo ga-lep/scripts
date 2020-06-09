@@ -4,7 +4,7 @@ Yet another list of (maybe) useful scripts
 
 ## List
 
-* [Setup Ansible](#Setup Ansible)
+* [Setup Ansible](#setup-ansible)
 
 ## Usage
 
