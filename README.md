@@ -9,3 +9,8 @@ Yet another list of (maybe) useful scripts
 ## Usage
 
 ### Setup Ansible
+
+```
+$ ./setup_ansible.sh [dest]
+```
+If there is no `[dest]`, it will setup the current folder.
